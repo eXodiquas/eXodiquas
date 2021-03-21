@@ -1,6 +1,6 @@
 ### Howdy ho visiteronis
 
-![Logo](LogoSmall.png  "Logo")
+![Logo](Logo112.png  "Logo")
 
 <!--
 **eXodiquas/eXodiquas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
